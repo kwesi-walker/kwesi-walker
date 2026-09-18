@@ -1,5 +1,5 @@
 ### Hi — I'm Kwesi Walker 👋  
-Seeking an **Alternance (Apprenticeship)** in AI Engineering or Backend Engineering. Based in **Lille, France**.
+Seeking an **Internship** in AI Engineering or Backend Engineering. Based in **France**.
 
 🔧 **Tech Stack & Tools**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
