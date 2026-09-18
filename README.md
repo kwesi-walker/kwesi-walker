@@ -28,4 +28,4 @@ Seeking an **Internship** in AI Engineering or Backend Engineering. Based in **F
 - Email: _Available on request_
 
 💼 **Open to Opportunities**  
-Actively applying for **Alternance AI Engineering / Backend Developer** roles starting soon. Lille or remote OK.
+Actively applying for **AI Engineering / Backend Developer** roles starting soon. All of France or remote OK.
